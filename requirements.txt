@@ -1,5 +1,4 @@
-# Fresnel 反射与透射 App
-# 使用 Optical_app 共享 .venv, 依赖与根 requirements.txt 一致
-streamlit>=1.40
-numpy>=1.24
-matplotlib>=3.7
+# Fresnel_Equation App — 固定版本, 保证 Streamlit Cloud 部署可复现
+streamlit==1.50.0
+numpy==2.0.2
+matplotlib==3.9.4

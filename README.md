@@ -1,10 +1,10 @@
-# Fresnel_Equation
+<h1 align="center">Fresnel Equation</h1>
 
 一个交互式的**菲涅耳方程**教学 App（Streamlit 单文件）。它把光在介质界面上的反射/透射，从「看现象」到「推物理」串成一条清晰主线：调参数 → 看曲线 → 逐点验证 → 一键展开完整推导。
 
 适合光学课程配套、自学复习，或作为理解**布儒斯特角、全内反射、倏逝波、古斯-汉欣位移**的可视化工具。
 
-![App 截图](docs/screenshot.png)
+<p align="center"><img src="docs/screenshot.png" alt="App 截图" width="100%"></p>
 
 ---
 
