@@ -47,8 +47,8 @@
 ## 🚀 运行
 
 ```bash
-git clone https://github.com/Hongxin-Chen/fresnel-app.git
-cd fresnel-app
+git clone https://github.com/Hongxin-Chen/Fresnel_Equation.git
+cd Fresnel_Equation
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```

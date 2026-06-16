@@ -606,7 +606,7 @@ def show_theory():
 
 
 def main():
-    st.set_page_config(page_title="Fresnel_Equation",
+    st.set_page_config(page_title="The Fresnel Equations",
                        page_icon="🔬", layout="wide")
 
     # ======================== 侧边栏: 介质参数 ========================
@@ -704,7 +704,7 @@ def main():
             "<h1 style='text-align:center;margin:0;"
             "font-family:\"Source Serif 4\",\"Tiempos\",Georgia,"
             "\"Times New Roman\",serif;"
-            "font-weight:600;letter-spacing:0.3px'>Fresnel_Equation</h1>",
+            "font-weight:600;letter-spacing:0.3px'>The Fresnel Equations</h1>",
             unsafe_allow_html=True,
         )
     with _tr:
