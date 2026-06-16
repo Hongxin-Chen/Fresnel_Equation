@@ -1,0 +1,5 @@
+# Fresnel 反射与透射 App
+# 使用 Optical_app 共享 .venv, 依赖与根 requirements.txt 一致
+streamlit>=1.40
+numpy>=1.24
+matplotlib>=3.7
